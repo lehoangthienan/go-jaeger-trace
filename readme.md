@@ -11,9 +11,9 @@ make init
 
 ## HOW TO START
 ```
-make dev-service-a
-make dev-service-b
-http://localhost:3000/go
+make dev-svc-a
+make dev-svc-b
+curl http://localhost:3000/go
 ```
 
 
