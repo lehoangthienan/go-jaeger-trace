@@ -7,7 +7,7 @@
 ```
 make setup
 make init
-``
+```
 
 ## HOW TO START
 ```
